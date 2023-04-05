@@ -1,29 +1,30 @@
 ## Hi my name is Matheus Giraldi  
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Software Development student, focusing on Back-End using .NET ecosystem and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, I'm always ready for new challenges.
+I'm a Software Development student, focusing on Back-End using .NET ecosystem and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, I'm always ready for new challenges.
 
+ 
 ##
-
+ 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
 
 ##
 
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giraldimatheus&theme=monokai"/> 
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giraldimatheus&theme=monokai"/> 
 </div>
 
 <div align="center">
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Giraldimatheus&show_icons=true&theme=monokai&include_all_commits=true&count_private=false&hide_border=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giraldimatheus&layout=compact&langs_count=7&theme=monokai&hide_border=true"/>   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Giraldimatheus&theme=monokai&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Giraldimatheus&show_icons=true&theme=monokai&include_all_commits=true&count_private=false&hide_border=true"/> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giraldimatheus&layout=compact&langs_count=7&theme=monokai&hide_border=true"/>   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Giraldimatheus&theme=monokai&hide_border=true"/>
 </div>
 
 ##
 
 <div align="center">
-  <h3>Learning : </h3>
+  <h3>Learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
   <img align="center" alt="Matheus-C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Matheus-Dotnet" height="35" width="45" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dotnet-1175177.png?f=avif&w=256">
   <img align="center" alt="Matheus-SQL" height="35" width="45" src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png">
@@ -37,11 +38,7 @@
 ##
 
 <div align="center">
-  
   <img src="https://media.giphy.com/media/KNUhETKTx63XgYHBt1/giphy.gif" width="230">
-
-
-  
 </div>
   
   
