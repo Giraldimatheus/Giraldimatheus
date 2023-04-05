@@ -1,4 +1,4 @@
-## Hi my name is Matheus Giraldi
+## Hi my name is Matheus Giraldi <a href= ""><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 
 🔭 I'm a Software Development student, focusing on Back-End using .NET ecosystem and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, I'm a eternal apprentice and I'm always ready for new challenges.
 
@@ -27,5 +27,6 @@
 ##
 
 <!--CONTATOS -->
-  <a href="https://www.linkedin.com/in/matheus-h-favaro-giraldi-93684a141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheus-h-favaro-giraldi-93684a141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   
