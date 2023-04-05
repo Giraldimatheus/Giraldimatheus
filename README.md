@@ -1,4 +1,4 @@
-## Hi my name is Matheus Giraldi <a href= ""><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+## Hi my name is Matheus Giraldi
 
 🔭 I'm a Software Development student, focusing on Back-End using .NET ecosystem and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, I'm a eternal apprentice and I'm always ready for new challenges.
 
