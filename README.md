@@ -1,6 +1,12 @@
 ## Hi my name is Matheus Giraldi  
 
 I'm a Software Development student, focusing on Back-End using .NET ecosystem and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, I'm always ready for new challenges.
+ 
+##
+ 
+<div align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</div>
 
 ##
 
@@ -13,13 +19,6 @@ I'm a Software Development student, focusing on Back-End using .NET ecosystem an
   <img align="center" alt="Matheus-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Matheus-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-</div>
-  
- 
-##
- 
-<div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
 
 ##
