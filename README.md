@@ -10,7 +10,7 @@ I'm a Software Development student, focusing on Back-End using .NET ecosystem an
 
 ##
 
-<div align="center" style="transform: scale(1); transition: transform 0.5s;">
+<div align="center">
   <img align="center" alt="Matheus-C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Matheus-Dotnet" height="35" width="45" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dotnet-1175177.png?f=avif&w=256">
   <img align="center" alt="Matheus-SQL" height="35" width="45" src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png">
