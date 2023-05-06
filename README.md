@@ -26,7 +26,11 @@
 
 <div align="center">
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Giraldimatheus&show_icons=true&theme=monokai&include_all_commits=true&count_private=false&hide_border=true"/> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Giraldimatheus&show_icons=true&theme=monokai&include_all_commits=true&count_private=false&hide_border=true"/>
     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Giraldimatheus&theme=monokai&hide_border=true"/>
+ 
 </div>
-  
+
+ 
+
+
